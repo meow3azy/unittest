@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10e563f1-6786-48ae-b29a-096587b9cfde" name="Changes" comment="versfinal">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/unittests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/unittests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unittest_proj/tests/test_arrs.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_proj/tests/test_arrs.py" afterDir="false" />
-    </list>
+    <list default="true" id="10e563f1-6786-48ae-b29a-096587b9cfde" name="Changes" comment="100%%%" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,12 +214,29 @@
       <option name="project" value="LOCAL" />
       <updated>1713118933210</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="100%%%">
+      <option name="closed" value="true" />
+      <created>1713721761959</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713721761959</updated>
+    </task>
+    <task id="LOCAL-00003" summary="100%%%">
+      <option name="closed" value="true" />
+      <created>1713721772334</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713721772334</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="versfinal" />
-    <option name="LAST_COMMIT_MESSAGE" value="versfinal" />
+    <MESSAGE value="100%%%" />
+    <option name="LAST_COMMIT_MESSAGE" value="100%%%" />
   </component>
 </project>
