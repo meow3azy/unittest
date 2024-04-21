@@ -8,8 +8,6 @@ def test_get_existing_index():
 def test_get_nonexisting_index_with_default():
     array = [1, 2, 3, 4, 5]
     assert get(array, 10, "default") == "default"
-
-<<<<<<<<< Temporary merge branch 1
 def test_get_nonexisting_index_without_default():
     array = [1, 2, 3, 4, 5]
     assert get(array, 10) == None
@@ -29,7 +27,6 @@ def test_my_slice_with_end():
 def test_my_slice_with_start_and_end():
     array = [1, 2, 3, 4, 5]
     assert my_slice(array, 1, 4) == [2, 3, 4]
-=========
     def test_get(self):
         self.assertEqual(arrs.get([1, 2, 3], 1, "test"), 2)
         self.assertEqual(arrs.get([], 0, "test"), "test")
@@ -45,4 +42,4 @@ def test_my_slice_with_start_and_end():
     def test_my_slice_negative_indices(self):
         self.assertEqual(arrs.my_slice([1, 2, 3, 4, 5], -3, -1), [3, 4])
 
->>>>>>>>> Temporary merge branch 2
+
